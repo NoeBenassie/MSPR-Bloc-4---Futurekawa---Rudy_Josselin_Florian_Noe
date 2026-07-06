@@ -1,6 +1,0 @@
-# FutureKawa
-## Documentation Backend — Siège
-- Équipe : Rudy · Florian · Noé · Josselin
-- Version : 1.0
-- Date : 05/07/2026
-- Projet : FutureKawa
